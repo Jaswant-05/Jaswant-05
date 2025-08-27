@@ -58,7 +58,7 @@ Google Maps–powered issue reporting app for Toronto. Citizens report, admins t
 
 ## 🌍 Connect with Me  
 - 📩 [Email](mailto:jaswant@numericnest.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jaswant-sandhu)  
+- 💼 [LinkedIn](https://linkedin.com/in/jaswant-sandhu-22a79a300)  
 - 🌐 [Portfolio](https://jaswantsandhu.dev)  
 
 ---
