@@ -6,10 +6,10 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on **Stripe subscription billing, Shopify integrations, and BigQuery pipelines** at Purchs.  
+- 🔭 Currently working on **Stripe Tax, ClickShip integrations, and looker dashboards** at Purchs.  
 - 🌱 Exploring **AI, analytics, and full-stack system design**.  
-- ⚡ Love building **end-to-end projects** that go from backend APIs → cloud pipelines → slick React UIs.  
-- 🎯 Goal: Grow into a **lead/full-stack engineer** and build impactful SaaS products.  
+- ⚡ Love building **end-to-end projects** that go from backend APIs → slick React UIs → learning devops.  
+- 🎯 Goal: Grow into a **full-stack engineer** and build impactful products.  
 
 ---
 
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sails.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
