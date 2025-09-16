@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jaswant Sandhu  
 
-💻 **Software Developer Intern @ [Purchs](https://purchs.io)** | 🎓 CS Student @ Toronto Metropolitan University (2023–2028)  
+💻 **Prev Software Developer Intern @ [Purchs](https://purchs.io)** | 🎓 CS Student @ Toronto Metropolitan University (2023–2028)  
 ⚡ Building scalable web apps, AI-powered tools, and data-driven systems.  
 
 ---
